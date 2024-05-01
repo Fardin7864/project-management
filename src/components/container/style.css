@@ -1,0 +1,21 @@
+.bg-corners {
+    background-image: url("/group-top.png"), url("/group-bottom.png");
+    background-position: top right, bottom left;
+    background-size: 350px 200px, 350px 200px;
+  }
+  
+  .bg-corners-fit-height {
+    background-image: url("/group-top.png"), url("/group-bottom.png");
+    background-position: top right, bottom left;
+    background-size: 350px 200px, 350px 200px;
+    height: fit-content;
+  }
+  
+  @media (max-width: 768px) {
+    .bg-corners {
+      background-image: url("/group-top.png"), url("/group-bottom.png");
+      background-position: top right, bottom left;
+      background-size: 200px 150px, 200px 150px;
+    }
+  }
+  

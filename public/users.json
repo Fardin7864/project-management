@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "img": "john.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "pass456",
+      "img": "jane.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "password": "alicepass",
+      "img": "alice.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "email": "bob@example.com",
+      "password": "bob123",
+      "img": "bob.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Emma Davis",
+      "email": "emma@example.com",
+      "password": "emma456",
+      "img": "emma.jpg"
+    }
+  ]
+  
